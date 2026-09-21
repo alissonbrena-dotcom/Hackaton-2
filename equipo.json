@@ -1,8 +1,7 @@
 {
-  "equipo": "G00",
+  "equipo": "G04",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Ariana Alejandra Isla Urbina", "codigo": "202510309" },
+    { "nombre": "Alisson Luciana Breña Davila", "codigo": "202410064" }
   ]
 }
