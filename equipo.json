@@ -1,8 +1,8 @@
 {
-  "equipo": "G04",
+  "equipo": "H1 18",
   "integrantes": [
     { "nombre": "Ariana Alejandra Isla Urbina", "codigo": "202510309" },
     { "nombre": "Alisson Luciana Breña Davila", "codigo": "202410064" },
-    { "nombre": "Sin tercer integrante (equipo de 2)", "codigo": "N/A" }
+    { "nombre": "(grupo de 2)", "codigo": "-" }
   ]
 }

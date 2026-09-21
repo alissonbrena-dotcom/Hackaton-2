@@ -1,8 +1,6 @@
 # Entrega — Tuckersoft Branch Engine
 
-**Equipo:** G04 — Ariana Isla (202510309) y Alisson Breña (202410064).
-Somos 2 integrantes; en `equipo.json` la tercera entrada lo indica explícitamente
-("Sin tercer integrante"), porque el tablero exige 3 entradas.
+**Equipo:** H1 18 (grupo de 2) — Ariana Isla (202510309) y Alisson Breña (202410064).
 
 ## Resultado de los autotests
 
@@ -19,7 +17,7 @@ Somos 2 integrantes; en `equipo.json` la tercera entrada lo indica explícitamen
    ✔  ★4  DECISIONES   101 comprobaciones
    ✔  ★5  ASINCRONIA   41 comprobaciones
 
-   tablero: publicado como "G04"
+   tablero: publicado como "H1 18"
 
    Las cinco estrellas. Bandersnatch sale para Navidad.
   ──────────────────────────────────────────────────────────────
